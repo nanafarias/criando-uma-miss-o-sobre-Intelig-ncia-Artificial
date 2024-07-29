@@ -1,2 +1,2 @@
-# criando-uma-miss-o-sobre-Intelig-ncia-Artificial
-projeto alura
+# missao sobre Inteligencia Artificial
+Projeto dos Cursos Alura
